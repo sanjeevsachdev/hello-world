@@ -1,2 +1,2 @@
 # hello-world
-Repository to learn using GitHub
+The purpose of this repository to learn using GitHub.
